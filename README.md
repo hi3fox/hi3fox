@@ -1,4 +1,6 @@
 ## Hi there 👋
+どーも趣味でTownOfHost-Xを開発してるぷろぺらです TownOfHost-X系統のもの上げると思います。 Scratch版のAmong USもMOD作ってるので気が向いたらやってみてください。
+
 
 <!--
 **hi3fox/hi3fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
